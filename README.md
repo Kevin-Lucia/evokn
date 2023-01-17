@@ -1,7 +1,6 @@
 # evokn
 Evolving k-nearest neighbors
 
-"""
 In this implementation,
 
 of k-nearest (kn) neighbors an item is assessed for its deviation from evolving
