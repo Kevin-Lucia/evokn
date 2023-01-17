@@ -1,5 +1,5 @@
 # evokn
-Evolving k-nearest neighbors
+Evolving k-nearest neighbors with propagation
 
 In this implementation,
 
