@@ -35,3 +35,5 @@ are classified eventually become the prototype for comparing things to follow.
 It seems to be the natural order of things to change in value over time. The
 rate of prototype changes can be adjusted with 'flow', 'epoch', 'evo_n', and
 'prune' attributes.
+
+When using windows or macOS, nest the script in **if __name__ == "__main__":**
